@@ -1,7 +1,7 @@
-default: advertiser
-build_dir: C:/ncs/advertiser/build
+default: m3_advertising_simulator
+build_dir: C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build
 domains:
-  - name: advertiser
-    build_dir: C:/ncs/advertiser/build/advertiser
+  - name: m3_advertising_simulator
+    build_dir: C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/m3_advertising_simulator
 flash_order:
-  - advertiser
+  - m3_advertising_simulator

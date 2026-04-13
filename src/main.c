@@ -134,9 +134,31 @@ void set_advertsisement_power(uint8_t index, uint8_t power)
 	update_advertisement_ble(index, mfg_data_advertisers[index]);
 }
 
+void set_advertisement_dynamic_values(uint8_t index, uint16_t cadence, uint16_t power)
+{
+	if (index >= CONFIG_BT_EXT_ADV_MAX_ADV_SET)
+		return;
+
+	mfg_data_advertisers[index].mfg_data_adv_t[CADENCE] = (uint8_t)cadence;
+	mfg_data_advertisers[index].mfg_data_adv_t[CADENCE_BYTES] = (uint8_t)(cadence >> 8);
+	mfg_data_advertisers[index].mfg_data_adv_t[POWER] = (uint8_t)power;
+	mfg_data_advertisers[index].mfg_data_adv_t[POWER_BYTES] = (uint8_t)(power >> 8);
+	update_advertisement_ble(index, mfg_data_advertisers[index]);
+}
+
+static void update_all_advertisers_dynamic(uint16_t cadence, uint16_t power)
+{
+	for (uint8_t index = 0; index < CONFIG_BT_EXT_ADV_MAX_ADV_SET; index++)
+	{
+		set_advertisement_dynamic_values(index, cadence, power);
+	}
+}
+
 int main(void)
 {
 	int err;
+	uint16_t cadence = CADENCE_MIN;
+	uint16_t power = POWER_MIN;
 
 	LOG_INF("Starting Bluetooth Peripheral Advertiser example");
 
@@ -153,14 +175,35 @@ int main(void)
 	if (err)
 	{
 		LOG_ERR("Failed to start advertising (err %d)", err);
+		return err;
 	}
 
-	set_advertisement_equipament_id();
+	set_advertisement_equipament_id(); /*< Initialize equipment IDs */
+	update_all_advertisers_dynamic(cadence, power); /*< Update all advertisers with initial values */
 
 	for (;;)
 	{
 
 		k_sleep(K_SECONDS(1));
+
+		if (power < POWER_MAX) {
+			power += 4;
+			if (power > POWER_MAX) {
+				power = POWER_MAX;
+			}
+		}
+
+		if (cadence < CADENCE_MAX) {
+			cadence++;
+		}
+
+		/*Reset values*/
+		cadence = (cadence >= CADENCE_MAX) ? CADENCE_MIN : cadence;
+		power = (power >= POWER_MAX) ? POWER_MIN : power;
+
+
+		update_all_advertisers_dynamic(cadence, power);
+		LOG_INF("Updated cadence=%u RPM power=%u W", cadence, power);
 	}
 
 	return 0;

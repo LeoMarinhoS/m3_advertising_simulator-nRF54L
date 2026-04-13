@@ -34,26 +34,26 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/ncs/advertiser/build/_sysbuild/sysbuild/images/bootloader/cmake_install.cmake")
+  include("C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/_sysbuild/sysbuild/images/bootloader/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/ncs/advertiser/build/modules/nrf/cmake_install.cmake")
+  include("C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/modules/nrf/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/ncs/advertiser/build/modules/mcuboot/cmake_install.cmake")
+  include("C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/modules/mcuboot/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/ncs/advertiser/build/_sysbuild/sysbuild/images/boards/cmake_install.cmake")
+  include("C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/_sysbuild/sysbuild/images/boards/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/ncs/advertiser/build/_sysbuild/sysbuild/images/soc/cmake_install.cmake")
+  include("C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/_sysbuild/sysbuild/images/soc/cmake_install.cmake")
 endif()
 

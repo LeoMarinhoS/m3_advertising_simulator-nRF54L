@@ -1,0 +1,13 @@
+# Target labels
+ m3_advertising_simulator
+# Source files and their labels
+C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/_sysbuild/sysbuild/images/CMakeFiles/m3_advertising_simulator
+C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/_sysbuild/sysbuild/images/CMakeFiles/m3_advertising_simulator.rule
+C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/_sysbuild/sysbuild/images/CMakeFiles/m3_advertising_simulator-complete.rule
+C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/_sysbuild/sysbuild/images/m3_advertising_simulator-prefix/src/m3_advertising_simulator-stamp/m3_advertising_simulator-build.rule
+C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/_sysbuild/sysbuild/images/m3_advertising_simulator-prefix/src/m3_advertising_simulator-stamp/m3_advertising_simulator-configure.rule
+C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/_sysbuild/sysbuild/images/m3_advertising_simulator-prefix/src/m3_advertising_simulator-stamp/m3_advertising_simulator-download.rule
+C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/_sysbuild/sysbuild/images/m3_advertising_simulator-prefix/src/m3_advertising_simulator-stamp/m3_advertising_simulator-install.rule
+C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/_sysbuild/sysbuild/images/m3_advertising_simulator-prefix/src/m3_advertising_simulator-stamp/m3_advertising_simulator-mkdir.rule
+C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/_sysbuild/sysbuild/images/m3_advertising_simulator-prefix/src/m3_advertising_simulator-stamp/m3_advertising_simulator-patch.rule
+C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/_sysbuild/sysbuild/images/m3_advertising_simulator-prefix/src/m3_advertising_simulator-stamp/m3_advertising_simulator-update.rule

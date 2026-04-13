@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/_sysbuild/sysbuild/images/CMakeFiles/m3_advertising_simulator"
+		},
+		{
+			"file" : "C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/_sysbuild/sysbuild/images/CMakeFiles/m3_advertising_simulator.rule"
+		},
+		{
+			"file" : "C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/_sysbuild/sysbuild/images/CMakeFiles/m3_advertising_simulator-complete.rule"
+		},
+		{
+			"file" : "C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/_sysbuild/sysbuild/images/m3_advertising_simulator-prefix/src/m3_advertising_simulator-stamp/m3_advertising_simulator-build.rule"
+		},
+		{
+			"file" : "C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/_sysbuild/sysbuild/images/m3_advertising_simulator-prefix/src/m3_advertising_simulator-stamp/m3_advertising_simulator-configure.rule"
+		},
+		{
+			"file" : "C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/_sysbuild/sysbuild/images/m3_advertising_simulator-prefix/src/m3_advertising_simulator-stamp/m3_advertising_simulator-download.rule"
+		},
+		{
+			"file" : "C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/_sysbuild/sysbuild/images/m3_advertising_simulator-prefix/src/m3_advertising_simulator-stamp/m3_advertising_simulator-install.rule"
+		},
+		{
+			"file" : "C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/_sysbuild/sysbuild/images/m3_advertising_simulator-prefix/src/m3_advertising_simulator-stamp/m3_advertising_simulator-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/_sysbuild/sysbuild/images/m3_advertising_simulator-prefix/src/m3_advertising_simulator-stamp/m3_advertising_simulator-patch.rule"
+		},
+		{
+			"file" : "C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/_sysbuild/sysbuild/images/m3_advertising_simulator-prefix/src/m3_advertising_simulator-stamp/m3_advertising_simulator-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"m3_advertising_simulator"
+		],
+		"name" : "m3_advertising_simulator"
+	}
+}

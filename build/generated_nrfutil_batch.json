@@ -5,7 +5,7 @@
             "operation": {
                 "type": "program",
                 "firmware": {
-                    "file": "C:\\ncs\\advertiser\\build\\merged.hex"
+                    "file": "C:\\Users\\leand\\Documents\\Engenharia\\m3_advertising_simulator\\build\\merged.hex"
                 },
                 "chip_erase_mode": "ERASE_PAGES",
                 "verify": "VERIFY_READ"

@@ -1,0 +1,7 @@
+default: advertiser
+build_dir: C:/ncs/advertiser/build
+domains:
+  - name: advertiser
+    build_dir: C:/ncs/advertiser/build/advertiser
+flash_order:
+  - advertiser

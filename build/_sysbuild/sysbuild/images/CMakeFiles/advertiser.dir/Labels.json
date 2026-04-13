@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/ncs/advertiser/build/_sysbuild/sysbuild/images/CMakeFiles/advertiser"
+		},
+		{
+			"file" : "C:/ncs/advertiser/build/_sysbuild/sysbuild/images/CMakeFiles/advertiser.rule"
+		},
+		{
+			"file" : "C:/ncs/advertiser/build/_sysbuild/sysbuild/images/CMakeFiles/advertiser-complete.rule"
+		},
+		{
+			"file" : "C:/ncs/advertiser/build/_sysbuild/sysbuild/images/advertiser-prefix/src/advertiser-stamp/advertiser-build.rule"
+		},
+		{
+			"file" : "C:/ncs/advertiser/build/_sysbuild/sysbuild/images/advertiser-prefix/src/advertiser-stamp/advertiser-configure.rule"
+		},
+		{
+			"file" : "C:/ncs/advertiser/build/_sysbuild/sysbuild/images/advertiser-prefix/src/advertiser-stamp/advertiser-download.rule"
+		},
+		{
+			"file" : "C:/ncs/advertiser/build/_sysbuild/sysbuild/images/advertiser-prefix/src/advertiser-stamp/advertiser-install.rule"
+		},
+		{
+			"file" : "C:/ncs/advertiser/build/_sysbuild/sysbuild/images/advertiser-prefix/src/advertiser-stamp/advertiser-mkdir.rule"
+		},
+		{
+			"file" : "C:/ncs/advertiser/build/_sysbuild/sysbuild/images/advertiser-prefix/src/advertiser-stamp/advertiser-patch.rule"
+		},
+		{
+			"file" : "C:/ncs/advertiser/build/_sysbuild/sysbuild/images/advertiser-prefix/src/advertiser-stamp/advertiser-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"advertiser"
+		],
+		"name" : "advertiser"
+	}
+}

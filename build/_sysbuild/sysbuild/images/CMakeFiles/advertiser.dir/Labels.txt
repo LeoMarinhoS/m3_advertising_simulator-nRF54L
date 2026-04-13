@@ -1,0 +1,13 @@
+# Target labels
+ advertiser
+# Source files and their labels
+C:/ncs/advertiser/build/_sysbuild/sysbuild/images/CMakeFiles/advertiser
+C:/ncs/advertiser/build/_sysbuild/sysbuild/images/CMakeFiles/advertiser.rule
+C:/ncs/advertiser/build/_sysbuild/sysbuild/images/CMakeFiles/advertiser-complete.rule
+C:/ncs/advertiser/build/_sysbuild/sysbuild/images/advertiser-prefix/src/advertiser-stamp/advertiser-build.rule
+C:/ncs/advertiser/build/_sysbuild/sysbuild/images/advertiser-prefix/src/advertiser-stamp/advertiser-configure.rule
+C:/ncs/advertiser/build/_sysbuild/sysbuild/images/advertiser-prefix/src/advertiser-stamp/advertiser-download.rule
+C:/ncs/advertiser/build/_sysbuild/sysbuild/images/advertiser-prefix/src/advertiser-stamp/advertiser-install.rule
+C:/ncs/advertiser/build/_sysbuild/sysbuild/images/advertiser-prefix/src/advertiser-stamp/advertiser-mkdir.rule
+C:/ncs/advertiser/build/_sysbuild/sysbuild/images/advertiser-prefix/src/advertiser-stamp/advertiser-patch.rule
+C:/ncs/advertiser/build/_sysbuild/sysbuild/images/advertiser-prefix/src/advertiser-stamp/advertiser-update.rule

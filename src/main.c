@@ -1,7 +1,19 @@
 /**
- * Copyright (c) 2024 Croxel, Inc.
- *
- * SPDX-License-Identifier: Apache-2.0
+ * @file main.c
+
+ * @author Leandro Marinho (robotdancepopping@gmail.com)
+ * @brief 
+ * @version 0.1
+ * @date 2026-04-13
+ * 
+ * @details This code implements a Bluetooth Low Energy (BLE) peripheral advertiser using
+ *  the Zephyr RTOS. It creates multiple advertising sets, each with its own manufacturer
+ *  data, and updates the advertised cadence and power values dynamically every second.
+ *  The advertiser simulates a fitness equipment broadcasting its status, including cadence,
+ *  power, and other relevant metrics.
+ * 
+ * @copyright Copyright (c) 2026
+ * 
  */
 
 #include <zephyr/bluetooth/bluetooth.h>

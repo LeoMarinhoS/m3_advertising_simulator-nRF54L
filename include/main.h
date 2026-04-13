@@ -59,4 +59,9 @@ typedef struct ble_advertisements_t {
 
 #define APPLICATION_VERSION "0.1"
 
+const char* get_first_name_metric(void);
+void set_first_name_metric(const char * value);
+
+
+
 #endif /* MAIN_H */

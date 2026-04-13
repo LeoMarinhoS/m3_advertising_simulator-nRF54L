@@ -411,8 +411,6 @@ C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/m3_advertisin
 C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/m3_advertising_simulator/modules/segger/CMakeFiles/rebuild_cache.dir
 C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/m3_advertising_simulator/modules/tinycrypt/CMakeFiles/edit_cache.dir
 C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/m3_advertising_simulator/modules/tinycrypt/CMakeFiles/rebuild_cache.dir
-C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/m3_advertising_simulator/modules/tinycrypt/lib/CMakeFiles/edit_cache.dir
-C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/m3_advertising_simulator/modules/tinycrypt/lib/CMakeFiles/rebuild_cache.dir
 C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/m3_advertising_simulator/modules/uoscore-uedhoc/CMakeFiles/edit_cache.dir
 C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/m3_advertising_simulator/modules/uoscore-uedhoc/CMakeFiles/rebuild_cache.dir
 C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/m3_advertising_simulator/modules/zcbor/CMakeFiles/edit_cache.dir

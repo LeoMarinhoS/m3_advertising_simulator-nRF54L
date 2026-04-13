@@ -5,7 +5,7 @@
  *   C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/m3_advertising_simulator/zephyr/zephyr.dts.pre
  *
  * Directories with bindings:
- *   C:/ncs/v2.9.2/nrf/dts/bindings, $ZEPHYR_BASE\dts\bindings
+ *   C:/ncs/v2.9.2/nrf/dts/bindings, C:/ncs/v2.9.2/zephyr/dts/bindings
  *
  * Node dependency ordering (ordinal and path):
  *   0   /
@@ -352,7 +352,7 @@
  * Node identifier: DT_N_S_entropy_bt_hci
  *
  * Binding (compatible = zephyr,bt-hci-entropy):
- *   $ZEPHYR_BASE\dts\bindings\bluetooth\zephyr,bt-hci-entropy.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\bluetooth\zephyr,bt-hci-entropy.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -461,7 +461,7 @@
  * Node identifier: DT_N_S_psa_rng
  *
  * Binding (compatible = zephyr,psa-crypto-rng):
- *   $ZEPHYR_BASE\dts\bindings\rng\zephyr,psa-crypto-rng.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\rng\zephyr,psa-crypto-rng.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -775,7 +775,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_gpio_50400
  *
  * Binding (compatible = nordic,nrf-gpio):
- *   $ZEPHYR_BASE\dts\bindings\gpio\nordic,nrf-gpio.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\gpio\nordic,nrf-gpio.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -984,7 +984,7 @@
  * Node identifier: DT_N_S_soc_S_cpuapp_ppb_bus_S_interrupt_controller_e000e100
  *
  * Binding (compatible = arm,v8m-nvic):
- *   $ZEPHYR_BASE\dts\bindings\interrupt-controller\arm,v8m-nvic.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\interrupt-controller\arm,v8m-nvic.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -1136,7 +1136,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_gpiote_da000
  *
  * Binding (compatible = nordic,nrf-gpiote):
- *   $ZEPHYR_BASE\dts\bindings\gpio\nordic,nrf-gpiote.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\gpio\nordic,nrf-gpiote.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -1271,7 +1271,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_gpio_d8200
  *
  * Binding (compatible = nordic,nrf-gpio):
- *   $ZEPHYR_BASE\dts\bindings\gpio\nordic,nrf-gpio.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\gpio\nordic,nrf-gpio.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -1411,7 +1411,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_gpiote_10c000
  *
  * Binding (compatible = nordic,nrf-gpiote):
- *   $ZEPHYR_BASE\dts\bindings\gpio\nordic,nrf-gpiote.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\gpio\nordic,nrf-gpiote.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -1546,7 +1546,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_gpio_10a000
  *
  * Binding (compatible = nordic,nrf-gpio):
- *   $ZEPHYR_BASE\dts\bindings\gpio\nordic,nrf-gpio.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\gpio\nordic,nrf-gpio.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -1683,7 +1683,7 @@
  * Node identifier: DT_N_S_buttons
  *
  * Binding (compatible = gpio-keys):
- *   $ZEPHYR_BASE\dts\bindings\input\gpio-keys.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\input\gpio-keys.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -2222,7 +2222,7 @@
  * Node identifier: DT_N_S_clocks_S_hfxo
  *
  * Binding (compatible = nordic,nrf-hfxo):
- *   $ZEPHYR_BASE\dts\bindings\clock\nordic,nrf-hfxo.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\clock\nordic,nrf-hfxo.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -2337,7 +2337,7 @@
  * Node identifier: DT_N_S_clocks_S_lfxo
  *
  * Binding (compatible = nordic,nrf-lfxo):
- *   $ZEPHYR_BASE\dts\bindings\clock\nordic,nrf-lfxo.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\clock\nordic,nrf-lfxo.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -2515,7 +2515,7 @@
  * Node identifier: DT_N_S_cpus_S_cpu_0
  *
  * Binding (compatible = arm,cortex-m33f):
- *   $ZEPHYR_BASE\dts\bindings\cpu\arm,cortex-m33f.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\cpu\arm,cortex-m33f.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -2618,7 +2618,7 @@
  * Node identifier: DT_N_S_cpus_S_cpu_0_S_itm_e0000000
  *
  * Binding (compatible = arm,armv8m-itm):
- *   $ZEPHYR_BASE\dts\bindings\debug\arm,armv8m-itm.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\debug\arm,armv8m-itm.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -2722,7 +2722,7 @@
  * Node identifier: DT_N_S_leds
  *
  * Binding (compatible = gpio-leds):
- *   $ZEPHYR_BASE\dts\bindings\led\gpio-leds.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\led\gpio-leds.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -3085,7 +3085,7 @@
  * Node identifier: DT_N_S_pin_controller
  *
  * Binding (compatible = nordic,nrf-pinctrl):
- *   $ZEPHYR_BASE\dts\bindings\pinctrl\nordic,nrf-pinctrl.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\pinctrl\nordic,nrf-pinctrl.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -4342,7 +4342,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_pwm_d2000
  *
  * Binding (compatible = nordic,nrf-pwm):
- *   $ZEPHYR_BASE\dts\bindings\pwm\nordic,nrf-pwm.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\pwm\nordic,nrf-pwm.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -4531,7 +4531,7 @@
  * Node identifier: DT_N_S_pwmleds
  *
  * Binding (compatible = pwm-leds):
- *   $ZEPHYR_BASE\dts\bindings\led\pwm-leds.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\led\pwm-leds.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -4697,7 +4697,7 @@
  * Node identifier: DT_N_S_soc_S_ficr_ffc000
  *
  * Binding (compatible = nordic,nrf-ficr):
- *   $ZEPHYR_BASE\dts\bindings\misc\nordic,nrf-ficr.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\misc\nordic,nrf-ficr.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -4799,7 +4799,7 @@
  * Node identifier: DT_N_S_soc_S_memory_20000000
  *
  * Binding (compatible = mmio-sram):
- *   $ZEPHYR_BASE\dts\bindings\sram\mmio-sram.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\sram\mmio-sram.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -4917,7 +4917,7 @@
  * Node identifier: DT_N_S_soc_S_uicr_ffd000
  *
  * Binding (compatible = nordic,nrf-uicr):
- *   $ZEPHYR_BASE\dts\bindings\arm\nordic,nrf-uicr.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\arm\nordic,nrf-uicr.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -5023,7 +5023,7 @@
  * Node identifier: DT_N_S_soc_S_cpuapp_ppb_bus_S_timer_e000e010
  *
  * Binding (compatible = arm,armv8m-systick):
- *   $ZEPHYR_BASE\dts\bindings\timer\arm,armv8m-systick.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\timer\arm,armv8m-systick.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -5142,7 +5142,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_adc_d5000
  *
  * Binding (compatible = nordic,nrf-saadc):
- *   $ZEPHYR_BASE\dts\bindings\adc\nordic,nrf-saadc.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\adc\nordic,nrf-saadc.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -5274,7 +5274,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_clock_10e000
  *
  * Binding (compatible = nordic,nrf-clock):
- *   $ZEPHYR_BASE\dts\bindings\clock\nordic,nrf-clock.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\clock\nordic,nrf-clock.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -5406,7 +5406,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_comparator_106000
  *
  * Binding (compatible = nordic,nrf-comp):
- *   $ZEPHYR_BASE\dts\bindings\comparator\nordic,nrf-comp.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\comparator\nordic,nrf-comp.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -5540,7 +5540,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_dppic_42000
  *
  * Binding (compatible = nordic,nrf-dppic):
- *   $ZEPHYR_BASE\dts\bindings\misc\nordic,nrf-dppic.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\misc\nordic,nrf-dppic.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -5658,7 +5658,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_dppic_82000
  *
  * Binding (compatible = nordic,nrf-dppic):
- *   $ZEPHYR_BASE\dts\bindings\misc\nordic,nrf-dppic.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\misc\nordic,nrf-dppic.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -5776,7 +5776,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_dppic_c2000
  *
  * Binding (compatible = nordic,nrf-dppic):
- *   $ZEPHYR_BASE\dts\bindings\misc\nordic,nrf-dppic.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\misc\nordic,nrf-dppic.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -5894,7 +5894,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_dppic_102000
  *
  * Binding (compatible = nordic,nrf-dppic):
- *   $ZEPHYR_BASE\dts\bindings\misc\nordic,nrf-dppic.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\misc\nordic,nrf-dppic.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -6012,7 +6012,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_egu_87000
  *
  * Binding (compatible = nordic,nrf-egu):
- *   $ZEPHYR_BASE\dts\bindings\arm\nordic,nrf-egu.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\arm\nordic,nrf-egu.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -6144,7 +6144,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_egu_c9000
  *
  * Binding (compatible = nordic,nrf-egu):
- *   $ZEPHYR_BASE\dts\bindings\arm\nordic,nrf-egu.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\arm\nordic,nrf-egu.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -6276,7 +6276,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_grtc_e2000
  *
  * Binding (compatible = nordic,nrf-grtc):
- *   $ZEPHYR_BASE\dts\bindings\timer\nordic,nrf-grtc.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\timer\nordic,nrf-grtc.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -6541,7 +6541,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_i2c_c6000
  *
  * Binding (compatible = nordic,nrf-twim):
- *   $ZEPHYR_BASE\dts\bindings\i2c\nordic,nrf-twim.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\i2c\nordic,nrf-twim.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -6683,7 +6683,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_i2c_c7000
  *
  * Binding (compatible = nordic,nrf-twim):
- *   $ZEPHYR_BASE\dts\bindings\i2c\nordic,nrf-twim.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\i2c\nordic,nrf-twim.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -6825,7 +6825,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_i2c_c8000
  *
  * Binding (compatible = nordic,nrf-twim):
- *   $ZEPHYR_BASE\dts\bindings\i2c\nordic,nrf-twim.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\i2c\nordic,nrf-twim.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -6967,7 +6967,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_i2c_104000
  *
  * Binding (compatible = nordic,nrf-twim):
- *   $ZEPHYR_BASE\dts\bindings\i2c\nordic,nrf-twim.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\i2c\nordic,nrf-twim.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -7109,7 +7109,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_i2s_dd000
  *
  * Binding (compatible = nordic,nrf-i2s):
- *   $ZEPHYR_BASE\dts\bindings\i2s\nordic,nrf-i2s.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\i2s\nordic,nrf-i2s.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -7257,7 +7257,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_nfct_d6000
  *
  * Binding (compatible = nordic,nrf-nfct):
- *   $ZEPHYR_BASE\dts\bindings\net\wireless\nordic,nrf-nfct.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\net\wireless\nordic,nrf-nfct.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -7389,7 +7389,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_pdm_d0000
  *
  * Binding (compatible = nordic,nrf-pdm):
- *   $ZEPHYR_BASE\dts\bindings\audio\nordic,nrf-pdm.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\audio\nordic,nrf-pdm.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -7539,7 +7539,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_pdm_d1000
  *
  * Binding (compatible = nordic,nrf-pdm):
- *   $ZEPHYR_BASE\dts\bindings\audio\nordic,nrf-pdm.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\audio\nordic,nrf-pdm.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -7689,7 +7689,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_ppib_43000
  *
  * Binding (compatible = nordic,nrf-ppib):
- *   $ZEPHYR_BASE\dts\bindings\misc\nordic,nrf-ppib.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\misc\nordic,nrf-ppib.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -7807,7 +7807,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_ppib_44000
  *
  * Binding (compatible = nordic,nrf-ppib):
- *   $ZEPHYR_BASE\dts\bindings\misc\nordic,nrf-ppib.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\misc\nordic,nrf-ppib.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -7925,7 +7925,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_ppib_83000
  *
  * Binding (compatible = nordic,nrf-ppib):
- *   $ZEPHYR_BASE\dts\bindings\misc\nordic,nrf-ppib.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\misc\nordic,nrf-ppib.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -8043,7 +8043,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_ppib_84000
  *
  * Binding (compatible = nordic,nrf-ppib):
- *   $ZEPHYR_BASE\dts\bindings\misc\nordic,nrf-ppib.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\misc\nordic,nrf-ppib.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -8161,7 +8161,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_ppib_c3000
  *
  * Binding (compatible = nordic,nrf-ppib):
- *   $ZEPHYR_BASE\dts\bindings\misc\nordic,nrf-ppib.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\misc\nordic,nrf-ppib.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -8279,7 +8279,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_ppib_c4000
  *
  * Binding (compatible = nordic,nrf-ppib):
- *   $ZEPHYR_BASE\dts\bindings\misc\nordic,nrf-ppib.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\misc\nordic,nrf-ppib.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -8397,7 +8397,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_ppib_c5000
  *
  * Binding (compatible = nordic,nrf-ppib):
- *   $ZEPHYR_BASE\dts\bindings\misc\nordic,nrf-ppib.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\misc\nordic,nrf-ppib.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -8515,7 +8515,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_ppib_103000
  *
  * Binding (compatible = nordic,nrf-ppib):
- *   $ZEPHYR_BASE\dts\bindings\misc\nordic,nrf-ppib.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\misc\nordic,nrf-ppib.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -8633,7 +8633,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_pwm_d3000
  *
  * Binding (compatible = nordic,nrf-pwm):
- *   $ZEPHYR_BASE\dts\bindings\pwm\nordic,nrf-pwm.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\pwm\nordic,nrf-pwm.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -8767,7 +8767,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_pwm_d4000
  *
  * Binding (compatible = nordic,nrf-pwm):
- *   $ZEPHYR_BASE\dts\bindings\pwm\nordic,nrf-pwm.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\pwm\nordic,nrf-pwm.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -8901,7 +8901,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_qdec_e0000
  *
  * Binding (compatible = nordic,nrf-qdec):
- *   $ZEPHYR_BASE\dts\bindings\sensor\nordic,nrf-qdec.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\sensor\nordic,nrf-qdec.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -9033,7 +9033,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_qdec_e1000
  *
  * Binding (compatible = nordic,nrf-qdec):
- *   $ZEPHYR_BASE\dts\bindings\sensor\nordic,nrf-qdec.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\sensor\nordic,nrf-qdec.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -9165,7 +9165,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_spi_4a000
  *
  * Binding (compatible = nordic,nrf-spim):
- *   $ZEPHYR_BASE\dts\bindings\spi\nordic,nrf-spim.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\spi\nordic,nrf-spim.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -9311,7 +9311,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_spi_c6000
  *
  * Binding (compatible = nordic,nrf-spim):
- *   $ZEPHYR_BASE\dts\bindings\spi\nordic,nrf-spim.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\spi\nordic,nrf-spim.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -9457,7 +9457,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_spi_c7000
  *
  * Binding (compatible = nordic,nrf-spim):
- *   $ZEPHYR_BASE\dts\bindings\spi\nordic,nrf-spim.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\spi\nordic,nrf-spim.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -9603,7 +9603,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_spi_c8000
  *
  * Binding (compatible = nordic,nrf-spim):
- *   $ZEPHYR_BASE\dts\bindings\spi\nordic,nrf-spim.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\spi\nordic,nrf-spim.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -9749,7 +9749,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_spi_104000
  *
  * Binding (compatible = nordic,nrf-spim):
- *   $ZEPHYR_BASE\dts\bindings\spi\nordic,nrf-spim.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\spi\nordic,nrf-spim.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -9895,7 +9895,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_temp_d7000
  *
  * Binding (compatible = nordic,nrf-temp):
- *   $ZEPHYR_BASE\dts\bindings\sensor\nordic,nrf-temp.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\sensor\nordic,nrf-temp.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -10027,7 +10027,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_timer_55000
  *
  * Binding (compatible = nordic,nrf-timer):
- *   $ZEPHYR_BASE\dts\bindings\timer\nordic,nrf-timer.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\timer\nordic,nrf-timer.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -10169,7 +10169,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_timer_85000
  *
  * Binding (compatible = nordic,nrf-timer):
- *   $ZEPHYR_BASE\dts\bindings\timer\nordic,nrf-timer.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\timer\nordic,nrf-timer.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -10311,7 +10311,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_timer_ca000
  *
  * Binding (compatible = nordic,nrf-timer):
- *   $ZEPHYR_BASE\dts\bindings\timer\nordic,nrf-timer.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\timer\nordic,nrf-timer.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -10453,7 +10453,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_timer_cb000
  *
  * Binding (compatible = nordic,nrf-timer):
- *   $ZEPHYR_BASE\dts\bindings\timer\nordic,nrf-timer.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\timer\nordic,nrf-timer.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -10595,7 +10595,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_timer_cc000
  *
  * Binding (compatible = nordic,nrf-timer):
- *   $ZEPHYR_BASE\dts\bindings\timer\nordic,nrf-timer.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\timer\nordic,nrf-timer.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -10737,7 +10737,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_timer_cd000
  *
  * Binding (compatible = nordic,nrf-timer):
- *   $ZEPHYR_BASE\dts\bindings\timer\nordic,nrf-timer.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\timer\nordic,nrf-timer.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -10879,7 +10879,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_timer_ce000
  *
  * Binding (compatible = nordic,nrf-timer):
- *   $ZEPHYR_BASE\dts\bindings\timer\nordic,nrf-timer.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\timer\nordic,nrf-timer.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -11021,7 +11021,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_uart_4a000
  *
  * Binding (compatible = nordic,nrf-uarte):
- *   $ZEPHYR_BASE\dts\bindings\serial\nordic,nrf-uarte.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\serial\nordic,nrf-uarte.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -11161,7 +11161,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_uart_c6000
  *
  * Binding (compatible = nordic,nrf-uarte):
- *   $ZEPHYR_BASE\dts\bindings\serial\nordic,nrf-uarte.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\serial\nordic,nrf-uarte.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -11358,7 +11358,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_uart_c7000
  *
  * Binding (compatible = nordic,nrf-uarte):
- *   $ZEPHYR_BASE\dts\bindings\serial\nordic,nrf-uarte.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\serial\nordic,nrf-uarte.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -11498,7 +11498,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_uart_c8000
  *
  * Binding (compatible = nordic,nrf-uarte):
- *   $ZEPHYR_BASE\dts\bindings\serial\nordic,nrf-uarte.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\serial\nordic,nrf-uarte.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -11638,7 +11638,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_uart_104000
  *
  * Binding (compatible = nordic,nrf-uarte):
- *   $ZEPHYR_BASE\dts\bindings\serial\nordic,nrf-uarte.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\serial\nordic,nrf-uarte.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -11835,7 +11835,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_watchdog_108000
  *
  * Binding (compatible = nordic,nrf-wdt):
- *   $ZEPHYR_BASE\dts\bindings\watchdog\nordic,nrf-wdt.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\watchdog\nordic,nrf-wdt.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -11967,7 +11967,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_watchdog_109000
  *
  * Binding (compatible = nordic,nrf-wdt):
- *   $ZEPHYR_BASE\dts\bindings\watchdog\nordic,nrf-wdt.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\watchdog\nordic,nrf-wdt.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -12100,7 +12100,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_power_10e000
  *
  * Binding (compatible = nordic,nrf-power):
- *   $ZEPHYR_BASE\dts\bindings\power\nordic,nrf-power.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\power\nordic,nrf-power.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -12238,7 +12238,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_power_10e000_S_gpregret1_51c
  *
  * Binding (compatible = nordic,nrf-gpregret):
- *   $ZEPHYR_BASE\dts\bindings\retained_mem\nordic,nrf-gpreget.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\retained_mem\nordic,nrf-gpreget.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -12356,7 +12356,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_power_10e000_S_gpregret2_520
  *
  * Binding (compatible = nordic,nrf-gpregret):
- *   $ZEPHYR_BASE\dts\bindings\retained_mem\nordic,nrf-gpreget.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\retained_mem\nordic,nrf-gpreget.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -12474,7 +12474,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_radio_8a000
  *
  * Binding (compatible = nordic,nrf-radio):
- *   $ZEPHYR_BASE\dts\bindings\net\wireless\nordic,nrf-radio.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\net\wireless\nordic,nrf-radio.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -12621,7 +12621,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_radio_8a000_S_bt_hci_controller
  *
  * Binding (compatible = zephyr,bt-hci-ll-sw-split):
- *   $ZEPHYR_BASE\dts\bindings\bluetooth\zephyr,bt-hci-ll-sw-split.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\bluetooth\zephyr,bt-hci-ll-sw-split.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -12911,7 +12911,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_radio_8a000_S_ieee802154
  *
  * Binding (compatible = nordic,nrf-ieee802154):
- *   $ZEPHYR_BASE\dts\bindings\ieee802154\nordic,nrf-ieee802154.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\ieee802154\nordic,nrf-ieee802154.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -13020,7 +13020,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_regulator_120000
  *
  * Binding (compatible = nordic,nrf54l-regulators):
- *   $ZEPHYR_BASE\dts\bindings\regulator\nordic,nrf54l-regulators.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\regulator\nordic,nrf54l-regulators.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -13139,7 +13139,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_regulator_120000_S_regulator_120600
  *
  * Binding (compatible = nordic,nrf5x-regulator):
- *   $ZEPHYR_BASE\dts\bindings\regulator\nordic,nrf5x-regulator.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\regulator\nordic,nrf5x-regulator.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -13271,7 +13271,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_vpr_4c000
  *
  * Binding (compatible = nordic,nrf-vpr-coprocessor):
- *   $ZEPHYR_BASE\dts\bindings\riscv\nordic,nrf-vpr-coprocessor.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\riscv\nordic,nrf-vpr-coprocessor.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -13395,7 +13395,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_vpr_4c000_S_mailbox_0
  *
  * Binding (compatible = nordic,nrf-vevif-task-tx):
- *   $ZEPHYR_BASE\dts\bindings\mbox\nordic,nrf-vevif-task-tx.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\mbox\nordic,nrf-vevif-task-tx.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -13517,7 +13517,7 @@
  * Node identifier: DT_N_S_soc_S_peripheral_50000000_S_vpr_4c000_S_mailbox_1
  *
  * Binding (compatible = nordic,nrf-vevif-event-rx):
- *   $ZEPHYR_BASE\dts\bindings\mbox\nordic,nrf-vevif-event-rx.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\mbox\nordic,nrf-vevif-event-rx.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -13653,7 +13653,7 @@
  * Node identifier: DT_N_S_soc_S_rram_controller_5004b000
  *
  * Binding (compatible = nordic,rram-controller):
- *   $ZEPHYR_BASE\dts\bindings\flash_controller\nordic,rram-controller.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\flash_controller\nordic,rram-controller.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -13770,7 +13770,7 @@
  * Node identifier: DT_N_S_soc_S_rram_controller_5004b000_S_rram_0
  *
  * Binding (compatible = soc-nv-flash):
- *   $ZEPHYR_BASE\dts\bindings\mtd\soc-nv-flash.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\mtd\soc-nv-flash.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)
@@ -13873,7 +13873,7 @@
  * Node identifier: DT_N_S_soc_S_rram_controller_5004b000_S_rram_0_S_partitions
  *
  * Binding (compatible = fixed-partitions):
- *   $ZEPHYR_BASE\dts\bindings\mtd\fixed-partitions.yaml
+ *   C:/ncs/v2.9.2/zephyr/dts/bindings\mtd\fixed-partitions.yaml
  *
  * (Descriptions have moved to the Devicetree Bindings Index
  * in the documentation.)

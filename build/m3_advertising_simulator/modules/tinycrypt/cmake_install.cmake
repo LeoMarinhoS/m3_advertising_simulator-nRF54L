@@ -37,8 +37,3 @@ if(NOT DEFINED CMAKE_OBJDUMP)
   set(CMAKE_OBJDUMP "C:/zephyr-sdk-0.16.8/arm-zephyr-eabi/bin/arm-zephyr-eabi-objdump.exe")
 endif()
 
-if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  # Include the install script for the subdirectory.
-  include("C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/m3_advertising_simulator/modules/tinycrypt/lib/cmake_install.cmake")
-endif()
-

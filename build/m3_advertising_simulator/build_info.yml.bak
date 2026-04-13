@@ -1,0 +1,49 @@
+cmake:
+  application:
+    configuration-dir: C:/Users/leand/Documents/Engenharia/m3_advertising_simulator
+    source-dir: C:/Users/leand/Documents/Engenharia/m3_advertising_simulator
+  board:
+    name: nrf54l15dk
+    qualifiers: nrf54l15/cpuapp
+    revision: 
+  devicetree:
+    bindings-dirs:
+     - C:/ncs/v2.9.2/nrf/dts/bindings
+     - C:/ncs/v2.9.2/zephyr/dts/bindings
+    files:
+     - C:/ncs/v2.9.2/zephyr/boards/nordic/nrf54l15dk/nrf54l15dk_nrf54l15_cpuapp.dts
+    include-dirs:
+     - C:/ncs/v2.9.2/nrf/include
+     - C:/ncs/v2.9.2/nrf/dts
+     - C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/include
+     - C:/ncs/v2.9.2/zephyr/include
+     - C:/ncs/v2.9.2/zephyr/include/zephyr
+     - C:/ncs/v2.9.2/zephyr/dts/common
+     - C:/ncs/v2.9.2/zephyr/dts/x86
+     - C:/ncs/v2.9.2/zephyr/dts/xtensa
+     - C:/ncs/v2.9.2/zephyr/dts/sparc
+     - C:/ncs/v2.9.2/zephyr/dts/riscv
+     - C:/ncs/v2.9.2/zephyr/dts/posix
+     - C:/ncs/v2.9.2/zephyr/dts/nios2
+     - C:/ncs/v2.9.2/zephyr/dts/arm64
+     - C:/ncs/v2.9.2/zephyr/dts/arm
+     - C:/ncs/v2.9.2/zephyr/dts/arc
+     - C:/ncs/v2.9.2/zephyr/dts
+  kconfig:
+    files:
+     - C:/ncs/v2.9.2/zephyr/boards/nordic/nrf54l15dk/nrf54l15dk_nrf54l15_cpuapp_defconfig
+     - C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/prj.conf
+     - C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/m3_advertising_simulator/zephyr/misc/generated/extra_kconfig_options.conf
+     - C:/Users/leand/Documents/Engenharia/m3_advertising_simulator/build/m3_advertising_simulator/zephyr/.config.sysbuild
+    user-files:
+     - prj.conf
+  toolchain:
+    name: zephyr
+    path: C:/zephyr-sdk-0.16.8
+  vendor-specific:
+    nordic:
+      svdfile: C:/ncs/v2.9.2/modules/hal/nordic/nrfx/mdk/nrf54l15_application.svd
+  zephyr:
+    version: 3.7.99
+    zephyr-base: C:/ncs/v2.9.2/zephyr
+version: 0.1.0
